@@ -2,3 +2,5 @@ The effective and fair distribution of healthcare resources continues to be a si
 My thesis aims to address the concerns around healthcare resource allocation.
 
 Kindly have a look through my findings, graphs, data science techniques used and results in the "Aneesh Thesis Final" PDF file.
+
+My main data envelopment analysis is in "DEA_Analysis" R file. This is a great showcase of my coding in R as well as my documentation of each segment of my code and what each function does.
